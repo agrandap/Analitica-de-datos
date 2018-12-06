@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [pulse aquí](notebook.ipynb)
 
 
+[prueba de publicación](http://nbviewer.jupyter.org/github/agrandap/Analitica-de-datos/blob/master/notebook.ipynb)
+
+
 ```markdown
 Syntax highlighted code block
 
