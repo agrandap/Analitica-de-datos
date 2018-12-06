@@ -13,6 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [prueba de publicación](http://nbviewer.jupyter.org/github/agrandap/Analitica-de-datos/blob/master/notebook.ipynb)
 
+[ver archivo html](notebook.html)
+
 
 ```markdown
 Syntax highlighted code block
